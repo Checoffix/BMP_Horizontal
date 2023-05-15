@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\bin\Debug\BMP.exe.config
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\bin\Debug\BMP.exe
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\bin\Debug\BMP.pdb
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\obj\Debug\BMP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\obj\Debug\BMP.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\obj\Debug\Компутэрка_4.Form1.resources
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\obj\Debug\BMP.Properties.Resources.resources
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\obj\Debug\BMP.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\obj\Debug\BMP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\obj\Debug\BMP.exe
+C:\Users\User\source\repos\Компутэрка_4\Компутэрка_4\obj\Debug\BMP.pdb
